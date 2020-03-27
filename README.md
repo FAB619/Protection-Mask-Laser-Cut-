@@ -13,7 +13,9 @@ for more than 5 minutes, this way you will ensure that the solution reaches 100 
 ## How to Contribute
 If you think that you can contribute to the effort, or that you, or your organization can benefit from our efforts, use the links below to contact us
 ### Need face shileds for my hospital 
+Link will be added very soon to collect requests 
 ### Voleenter to laser cut shields
+DXF File : [Link]()
 
 # License 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />The design is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Licence Creative Commons Attribution - Pas d’Utilisation Commerciale 4.0 International</a>.
@@ -25,5 +27,5 @@ This documentation will be continuously improved as soon there are updates for d
 
 There are engineering and manufacturing risks around medical devices. Though the FDA has issued Emergency Use Authorizations (EUA) (Coronavirus Disease 2019 (COVID-19) Emergency Use Authorizations for Medical Devices, FDA), to avoid doing more harm than good, it is recommended to attempt to the best of your ability and circumstances to follow regulations, which may seem cumbersome, but exist for good reason.
 
-# FAQ
+# FAQ [ To Do ]
 Are polypropylène (PP) and Plexiglas PMMA laser cutted parts sterile? 
