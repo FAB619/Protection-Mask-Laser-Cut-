@@ -29,3 +29,11 @@ There are engineering and manufacturing risks around medical devices. Though the
 
 # FAQ [ To Do ]
 Are polypropylène (PP) and Plexiglas PMMA laser cutted parts sterile? 
+
+# Other Open Source Face Shield Designs
+## Laser Cutted 
+### Frameless designs
+- [Center for Design Research, University of Kansas] : https://www.notion.so/Open-Source-Face-Shield-c7ebd84f2dbe4be5ab0974c85c49d9ff
+- Protohaven Proto Shield: https://www.protohaven.org/proto-shield/
+## 3D Printed
+- Fab619 TN Maks: https://github.com/FAB619/Protection-Mask--COVID-19
