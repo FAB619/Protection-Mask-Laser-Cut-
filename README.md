@@ -1,7 +1,8 @@
 # Laser Cutted FaceShield 
 Laser Cut Face Shield For tunisian doctors and medical staff. 
 
-![Prototype picture](./images/PMMA-LaserCut-FaceShield-frame.jpg)
+<img alt="Prototype picture" src="./images/PMMA-LaserCut-FaceShield-frame.jpg" width="400">
+
 
 # IMPORTANT !! Sterilizing for Medical Use
 It is highly recommended to submerge (sink) the shield parts into disinfection solutions (ex Sodium hypochlorite, Isopropyl alcohol )
