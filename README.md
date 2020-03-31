@@ -1,7 +1,7 @@
 # Laser Cutted FaceShield 
 Laser Cut Face Shield For tunisian doctors and medical staff. 
 
-![Prototype picture](./images/)
+![Prototype picture](./images/PMMA-LaserCut-FaceShield-frame)
 
 # IMPORTANT !! Sterilizing for Medical Use
 It is highly recommended to submerge (sink) the shield parts into disinfection solutions (ex Sodium hypochlorite, Isopropyl alcohol )
@@ -10,12 +10,15 @@ for more than 5 minutes, this way you will ensure that the solution reaches 100 
 
 ### [English](./README.md) |  [Français](./README_FR.md) | 
 
-## How to Contribute
+# How to Contribute
 If you think that you can contribute to the effort, or that you, or your organization can benefit from our efforts, use the links below to contact us
-### Need face shileds for my hospital 
-Link will be added very soon to collect requests 
-### Voleenter to laser cut shields
-DXF File : [Link](https://github.com/FAB619/Protection-Mask-Laser-Cut-/blob/master/Polypropyl%C3%A8ne-PP-LaserCut-FaceShield.dxf)
+
+## Voleenter to laser cut shields
+#### Plexiglass (PMMA) 
+* V1 published by FAB619 : [Link]()
+* V2 published by Grach Taha (ENISO student): [Link]()
+#### Polypropylene (PP)
+* DXF File : [Link](https://github.com/FAB619/Protection-Mask-Laser-Cut-/blob/master/Polypropyl%C3%A8ne-PP-LaserCut-FaceShield.dxf)
 
 # License 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />The design is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Licence Creative Commons Attribution - Pas d’Utilisation Commerciale 4.0 International</a>.
@@ -37,3 +40,4 @@ Are polypropylène (PP) and Plexiglas PMMA laser cutted parts sterile?
 - Protohaven Proto Shield: https://www.protohaven.org/proto-shield/
 ## 3D Printed
 - Fab619 TN Maks: https://github.com/FAB619/Protection-Mask--COVID-19
+- Prusa Reasearch RC3 Remixedby Timothy Prestero : https://www.prusaprinters.org/prints/27748-dtm-v30-face-shield-ppe-for-covid-19-remix-of-prus
