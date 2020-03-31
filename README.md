@@ -15,10 +15,10 @@ for more than 5 minutes, this way you will ensure that the solution reaches 100 
 If you think that you can contribute to the effort, or that you, or your organization can benefit from our efforts, use the links below to contact us
 
 ## Voleenter to laser cut shields
-#### Plexiglass (PMMA) 
+#### 3mm Plexiglass (PMMA) 
 * V1 published by [FAB619](https://github.com/FAB619) : [Link](https://github.com/FAB619/Protection-Mask-Laser-Cut-/tree/master/PMMA-V1)
 * V2 published by [Grach Taha](http://grabcad.com/library/visiere-decoupe-laser-1) (ENISO student): [Link](https://github.com/FAB619/Protection-Mask-Laser-Cut-/tree/master/PMMA-V2)
-#### Polypropylene (PP)
+#### 5mm Polypropylene (PP)
 * DXF File : [Link](https://github.com/FAB619/Protection-Mask-Laser-Cut-/tree/master/PP-V1)
 
 # License 
