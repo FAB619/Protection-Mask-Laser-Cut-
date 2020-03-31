@@ -40,5 +40,6 @@ Are polypropylène (PP) and Plexiglas PMMA laser cutted parts sterile?
 - Center for Design Research, University of Kansas : https://www.notion.so/Open-Source-Face-Shield-c7ebd84f2dbe4be5ab0974c85c49d9ff
 - Protohaven Proto Shield: https://www.protohaven.org/proto-shield/
 ## 3D Printed
+- NIH Design: https://3dprint.nih.gov/collections/covid-19-response
 - Fab619 TN Maks: https://github.com/FAB619/Protection-Mask--COVID-19
 - Prusa Reasearch RC3 Remixedby Timothy Prestero : https://www.prusaprinters.org/prints/27748-dtm-v30-face-shield-ppe-for-covid-19-remix-of-prus
