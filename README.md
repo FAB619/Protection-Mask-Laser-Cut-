@@ -1,15 +1,22 @@
 # 🥽 Laser Cutted FaceShield 
 Laser Cut Face Shield For tunisian doctors and medical staff. 
 
-<p float="left">
-<figure>
-<img alt="Prototype picture" src="./images/PP-LaserCut-FaceShield-frame-3.jpg" width="400" > <figcaption>FAB619 PP laser cutted by Hazem Ben Ammar </figcaption>
-</figure>
-  
-<figure>
-<img alt="Prototype picture" src="./images/PMMA-LaserCut-FaceShield-frame.jpg" width="400" > <figcaption>Taha design laser cutted @ <a href="https://goo.gl/maps/heunsmjetvxHZNRN7">El FabSpace Lac</a> </figcaption>
-</figure>
-</p>
+<table>
+  <tr>
+     <td>Taha design laser cutted @ <a href="https://goo.gl/maps/heunsmjetvxHZNRN7">El FabSpace Lac</td>
+     <td>FAB619 PP laser cutted by Hazem Ben Ammar </td>
+  </tr>
+  <tr>
+    <td>
+      <figure>
+        <img align="left" alt="Prototype picture" src="./images/PMMA-LaserCut-FaceShield-frame.jpg" width="200" >
+</figure></td>
+    <td>
+      <figure>
+        <img align="left" alt="Prototype picture" src="./images/PP-LaserCut-FaceShield-frame-3.jpg" width="200" > </figure>
+    </td>
+  </tr>
+ </table>
 
 # 🚫 IMPORTANT !! Sterilizing for Medical Use
 It is highly recommended to submerge (sink) the shield parts into disinfection solutions (ex Sodium hypochlorite, Isopropyl alcohol )
