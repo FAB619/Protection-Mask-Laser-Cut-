@@ -13,7 +13,7 @@ Laser Cut Face Shield For tunisian doctors and medical staff.
 </figure></td>
     <td>
       <figure>
-        <img align="left" alt="Prototype picture" src="./images/PP-LaserCut-FaceShield-frame-3.jpg" width="200" > </figure>
+        <img align="left" alt="Prototype picture" src="./images/PP-LaserCut-FaceShield-frame-4.jpg" width="200" > </figure>
     </td>
   </tr>
  </table>
